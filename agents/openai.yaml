@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluar proyectos tecnológicos"
+  short_description: "Evalúa valor, costos y riesgos de iniciativas tecnológicas"
+  default_prompt: "Usa $evaluar-proyectos-tecnologicos para evaluar esta iniciativa y recomendar si conviene pilotearla o financiarla."
